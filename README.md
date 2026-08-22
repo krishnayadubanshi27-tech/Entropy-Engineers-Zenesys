@@ -9,4 +9,8 @@ EnContract is an intelligent Web3 and legal-tech platform built to help business
 
 Businesses struggle to track complex agreements, payment milestones, and regulatory compliance deadlines across their operations. Manual tracking leads to missed renewals, unfulfilled obligations, and legal risks. 
 
-**"EnContract"** solves this by providing an automated workspace that extracts contract metadata, visualizes risk factors, provides AI-driven recommendations, and triggers one-click workflows.
+<br>
+The Solution: **EnContract**
+
+***EnContract*** solves this by providing an automated workspace that extracts contract metadata, analyzes agreements tied to various services or vendors, visualizes risk  factors, provides AI-driven recommendations, and triggers one-click workflows.
+
