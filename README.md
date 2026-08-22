@@ -33,6 +33,17 @@ Features
 
 <br>7.**Dynamic contract lifecycle management:** Fully editable system to add, update, or remove contracts and compliance logs on demand.
 
-<br>8.
+
+<br><hr>
+
+**🛠️Tech Stack**
+
+| Layer | Technology / Tools |
+| :--- | :--- |
+| **Frontend & UI** | React, TypeScript, Tailwind CSS, Lucide Icons (Built via Lovable AI) |
+| **Authentication** | Google OAuth, Phone OTP Service |
+| **Document Processing & Analytics** | PDF Parsing Engine, Recharts (Data Visualization) |
+| **AI Engine** | Local LLM Integration / On-device Inference Engine |
+| **Hosting & Deployment** | Lovable AI Stack / Web3 Hosting |
 
 
