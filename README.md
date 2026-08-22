@@ -17,7 +17,7 @@ Businesses struggle to track complex agreements, payment milestones, and regulat
 <br>
 
 
-Features
+Features:
 <br>1. The interface splits cleanly across a persistent dynamic top navigation banner
 
 <br>2. Deep PDF parsing and visual impact breakdown (Charts and Pie Visualizations using Green for Positive Impact and Red for Negative Impact/Risk)
@@ -44,6 +44,6 @@ Features
 | **Authentication** | Google OAuth, Phone OTP Service |
 | **Document Processing & Analytics** | PDF Parsing Engine, Recharts (Data Visualization) |
 | **AI Engine** | Local LLM Integration / On-device Inference Engine |
-| **Hosting & Deployment** | Lovable AI Stack / Web3 Hosting |
+| **Hosting & Deployment** | Git Hub(currently) |
 
 
